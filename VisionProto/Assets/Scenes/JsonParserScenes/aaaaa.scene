@@ -1,0 +1,184 @@
+{
+  "Entitys": [
+    {
+      "EntityID": 446224,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": -10.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Main Camera",
+          "ComponentID": 1365953231
+        }
+      ]
+    },
+    {
+      "EntityID": 4294567036,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -3768.40161,
+            "y": 6719.40332,
+            "z": -289.3881
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "MAP_LEVEL",
+          "ComponentID": 1365953231
+        },
+        {
+          "ChildrenID": [
+            4294568094,
+            4294567854
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294568094,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.38696289,
+            "y": -5.97314453,
+            "z": -0.0377197266
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294567036,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.0009324849,
+            "y": -0.0009324849
+          },
+          "LightMapTiling": {
+            "x": 0.93155247,
+            "y": 0.93155247
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294567854,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.35839844,
+            "y": 6.98681641,
+            "z": 8.308105
+          },
+          "Local_Quaternion": {
+            "x": 0.7071068,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Area Light",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294567036,
+          "ComponentID": 3243699741
+        }
+      ]
+    }
+  ],
+  "PhysicsInfo": {
+    "CollisionMatrix": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "FrameRate": 60,
+    "Gravity": {
+      "x": 0.0,
+      "y": -9.81,
+      "z": 0.0
+    }
+  }
+}

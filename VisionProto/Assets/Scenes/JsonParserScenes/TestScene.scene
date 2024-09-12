@@ -1,0 +1,7063 @@
+{
+  "Entitys": [
+    {
+      "EntityID": 75580,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": -10.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Main Camera",
+          "ComponentID": 1365953231
+        }
+      ]
+    },
+    {
+      "EntityID": 75656,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 117.09,
+            "y": 31.5739365,
+            "z": -555.02
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Global Volume",
+          "ComponentID": 1365953231
+        }
+      ]
+    },
+    {
+      "EntityID": 75836,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 151.575012,
+            "y": 99.93725,
+            "z": -553.8047
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "demo",
+          "ComponentID": 1365953231
+        },
+        {
+          "ChildrenID": [
+            4294858406,
+            75934,
+            75590,
+            75856,
+            75676,
+            75780,
+            75558,
+            75628,
+            75846,
+            75988,
+            4294858166,
+            4294858092,
+            4294858318,
+            4294857990,
+            4294857802,
+            4294857894,
+            4294857906,
+            4294858494,
+            4294858500,
+            4294858238,
+            4294858022,
+            4294858034,
+            4294858454,
+            4294857820,
+            4294858212,
+            4294858086,
+            4294858028,
+            4294858488,
+            4294858132,
+            4294857788,
+            4294858428,
+            4294858058,
+            4294858232,
+            4294857782,
+            4294858244,
+            4294857956,
+            4294857868,
+            4294858348,
+            4294857842,
+            4294858334,
+            4294858482,
+            4294857814,
+            4294858476,
+            4294858072,
+            4294857996,
+            4294858066,
+            4294858414,
+            4294858298,
+            4294858010,
+            4294858252,
+            4294858190,
+            4294857876,
+            4294858514,
+            4294858146,
+            4294858278,
+            4294858220,
+            4294858154,
+            4294858174,
+            4294858342,
+            4294858462,
+            4294857936,
+            4294858422,
+            4294858206,
+            4294857964,
+            4294858182,
+            4294858080,
+            4294858306,
+            4294858470,
+            4294858436,
+            4294857796,
+            4294858198,
+            4294857862,
+            4294857950,
+            4294855788,
+            4294851560,
+            4294851558,
+            4294851556,
+            4294851544,
+            4294851546,
+            4294851554,
+            4294851548,
+            4294851550,
+            4294851552,
+            4294853958,
+            4294853422,
+            4294852482,
+            4294852134,
+            4294852136,
+            4294852138,
+            4294852480,
+            4294852478,
+            4294843340,
+            4294842198
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858406,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.28459167,
+            "y": -98.94725,
+            "z": 8.612305
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.260127127,
+            "z": 0.0,
+            "w": 0.965574443
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "U_guard (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858404,
+            4294858396,
+            4294858388,
+            4294858380,
+            4294858372,
+            4294858364,
+            4294858356
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858404,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "DHT_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858396,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "HD_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858388,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "QK_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858380,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "THS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858372,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "TJS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858364,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "TLS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858356,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "WN_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858406,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75934,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.436462,
+            "y": -85.98724,
+            "z": 41.91272
+          },
+          "Local_Quaternion": {
+            "x": -0.0008283927,
+            "y": -0.707106233,
+            "z": -0.7071064,
+            "w": 0.0008282288
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75590,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 14.0049744,
+            "y": -73.32,
+            "z": -3.69525146
+          },
+          "Local_Quaternion": {
+            "x": 0.7068188,
+            "y": 0.0,
+            "z": 4.24333848E-08,
+            "w": 0.7073947
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Area Light (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 75856,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.511093,
+            "y": -86.02,
+            "z": 26.6193848
+          },
+          "Local_Quaternion": {
+            "x": -0.5018677,
+            "y": 0.498125285,
+            "z": 0.4981251,
+            "w": 0.50186795
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75676,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.9880524,
+            "y": -85.98724,
+            "z": 41.8775635
+          },
+          "Local_Quaternion": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": -0.5,
+            "w": 0.5
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75780,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 14.3249817,
+            "y": -85.83725,
+            "z": -3.89532471
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Reflection Probe (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 75558,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.5,
+            "y": -86.00895,
+            "z": -32.8173828
+          },
+          "Local_Quaternion": {
+            "x": 0.499747276,
+            "y": -0.5002526,
+            "z": -0.5002526,
+            "w": -0.499747276
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75628,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.461945,
+            "y": -85.98724,
+            "z": -49.37738
+          },
+          "Local_Quaternion": {
+            "x": 0.499893129,
+            "y": -0.5001067,
+            "z": -0.500106931,
+            "w": -0.499893337
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75846,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.87,
+            "y": -85.98724,
+            "z": -49.41
+          },
+          "Local_Quaternion": {
+            "x": 0.70710665,
+            "y": -0.0004381463,
+            "z": -0.000438511372,
+            "w": -0.7071067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 75988,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.56253052,
+            "y": -86.22725,
+            "z": -41.10736
+          },
+          "Local_Quaternion": {
+            "x": -0.500061035,
+            "y": 0.499938965,
+            "z": 0.499939,
+            "w": 0.5000611
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (28)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858166,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7349854,
+            "y": -86.25725,
+            "z": 41.95468
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858092,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7349854,
+            "y": -86.25725,
+            "z": 41.9547119
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858318,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.26501465,
+            "y": -86.25725,
+            "z": 41.9547424
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857990,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 3.63684082
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857802,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 18.63684
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857894,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 33.63678
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857906,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -11.36322
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858494,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -26.36316
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858500,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -41.3631
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858238,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.37710571,
+            "y": -86.22726,
+            "z": -49.43097
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (23)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858022,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.622818,
+            "y": -86.22726,
+            "z": -49.4311523
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (22)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858034,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.622757,
+            "y": -86.22726,
+            "z": -49.4311523
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (21)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858454,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -11.36322
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857820,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -26.36316
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858212,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -41.36316
+          },
+          "Local_Quaternion": {
+            "x": -2.66925557E-08,
+            "y": -0.707106531,
+            "z": 2.669253E-08,
+            "w": 0.7071071
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858086,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 3.63690186
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858028,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 18.63684
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858488,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 33.63678
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858132,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.9255829,
+            "y": -89.83687,
+            "z": 6.093567
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707107,
+            "z": 0.0,
+            "w": 0.7071066
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858130,
+            4294858122,
+            4294858258
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858130,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 4.28773451,
+            "y": 0.0,
+            "z": 3.30572867
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "glass_handle_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858132,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858122,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 1.1905098,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858132,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858258,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 4.280945,
+            "y": -0.000380516052,
+            "z": 3.33135986
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858132,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857788,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858328
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858328,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857788,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858428,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455017,
+            "y": -85.72725,
+            "z": -6.57531738
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857826
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857826,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858428,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858058,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455017,
+            "y": -85.72725,
+            "z": 7.404663
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858108
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858108,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858058,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858232,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.454987,
+            "y": -85.72725,
+            "z": 0.404602051
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857900
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857900,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858232,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857782,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.4552,
+            "y": -85.72725,
+            "z": 14.4046631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858290
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858290,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857782,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858244,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.45517,
+            "y": -85.72725,
+            "z": 21.4046021
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857882
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857882,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858244,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857956,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455048,
+            "y": -85.72725,
+            "z": -13.5752563
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858312
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858312,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857956,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857868,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.454834,
+            "y": -85.72725,
+            "z": -27.5753174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857984
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857984,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857868,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858348,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.4548645,
+            "y": -85.72725,
+            "z": -20.5752563
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858284
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858284,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858348,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857842,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857974
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857974,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857842,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858334,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 25.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858506
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858506,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858334,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858482,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 11.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857922
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857922,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858482,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857814,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 18.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858040
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858040,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857814,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858476,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 18.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858442
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858442,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858476,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858072,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 11.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294858052
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858052,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294858072,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857996,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 25.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294857832
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857832,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294857996,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858066,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.465012,
+            "y": -85.7472458,
+            "z": -31.3552856
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858414,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 7.514984,
+            "y": -85.64725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858298,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.0549774,
+            "y": -85.64725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858010,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.0549774,
+            "y": -85.64725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858252,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 7.514984,
+            "y": -85.64725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858190,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.465012,
+            "y": -85.7472458,
+            "z": 25.1846924
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857876,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 6.0349884,
+            "y": -85.64725,
+            "z": -4.165283
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 2.533197E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858514,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -7.27687073,
+            "y": -85.64725,
+            "z": -4.19055176
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 1.34110465E-07,
+            "z": 0.0,
+            "w": -1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858146,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -7.276596,
+            "y": -85.61725,
+            "z": -2.66955566
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": -4.470348E-08
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858278,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 6.0349884,
+            "y": -85.61725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858220,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858154,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858174,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858342,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858462,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857936,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858422,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858206,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857964,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858182,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858080,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858306,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858470,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858436,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857796,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294858198,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857862,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294857950,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294855788,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851560,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851558,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851556,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851544,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851546,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851554,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851548,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851550,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294851552,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294853958,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294853422,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852482,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852134,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852136,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852138,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852480,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294852478,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294843340,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 27.61499,
+            "y": -98.8172455,
+            "z": 17.6546631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cpuB_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            112,
+            117,
+            66,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    },
+    {
+      "EntityID": 4294842198,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 12.894989,
+            "y": -98.8172455,
+            "z": 17.6546631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cpuB_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 75836,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            112,
+            117,
+            66,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": "Static",
+          "ComponentID": 3774279003
+        }
+      ]
+    }
+  ],
+  "PhysicsInfo": {
+    "CollisionMatrix": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "FrameRate": 60,
+    "Gravity": {
+      "x": 0.0,
+      "y": -9.81,
+      "z": 0.0
+    }
+  }
+}

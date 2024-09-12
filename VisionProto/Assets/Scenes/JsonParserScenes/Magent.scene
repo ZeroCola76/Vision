@@ -1,0 +1,7819 @@
+{
+  "Entitys": [
+    {
+      "EntityID": 608764,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": -10.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Main Camera",
+          "ComponentID": 1365953231
+        }
+      ]
+    },
+    {
+      "EntityID": 608828,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 117.09,
+            "y": 31.5739365,
+            "z": -555.02
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Global Volume",
+          "ComponentID": 1365953231
+        }
+      ]
+    },
+    {
+      "EntityID": 608912,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 131.435989,
+            "y": 85.3941345,
+            "z": -550.4595
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "MAP_LEVEL",
+          "ComponentID": 1365953231
+        },
+        {
+          "ChildrenID": [
+            609070,
+            609128,
+            608856,
+            4294445090,
+            4294442628,
+            608980
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 609070,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 20.1390228,
+            "y": 14.5431137,
+            "z": -3.34521484
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "demo",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446160,
+            609156,
+            608846,
+            608802,
+            609082,
+            4294446416,
+            4294446256,
+            4294446304,
+            4294446328,
+            4294446292,
+            4294445906,
+            4294445930,
+            4294446474,
+            4294446492,
+            4294446072,
+            4294446440,
+            4294445972,
+            4294446310,
+            4294446352,
+            4294445866,
+            4294445924,
+            4294446196,
+            4294446322,
+            4294445978,
+            4294446528,
+            4294445936,
+            4294446268,
+            4294446498,
+            4294446358,
+            4294446032,
+            4294446054,
+            4294446280,
+            4294446008,
+            4294446026,
+            4294446220,
+            4294446244,
+            4294446102,
+            4294446096,
+            4294445960,
+            4294445918,
+            4294446078,
+            4294446226,
+            4294446090,
+            4294445984,
+            4294446404,
+            4294446084,
+            4294445882,
+            4294446214,
+            4294446422,
+            4294446446,
+            4294446178,
+            4294445990,
+            4294446516,
+            4294446428,
+            4294446014,
+            4294446060,
+            4294446510,
+            4294446262,
+            4294446504,
+            4294446298,
+            4294445912,
+            4294446184,
+            4294446458,
+            4294446190,
+            4294446522,
+            4294446286,
+            4294446002,
+            4294446020,
+            4294446398,
+            4294446486,
+            4294446316,
+            4294445900,
+            4294446434,
+            4294446066,
+            4294445942,
+            4294445966,
+            4294445996,
+            4294445872,
+            4294445888,
+            4294446380,
+            4294446274,
+            4294446464,
+            4294446172,
+            4294446038,
+            4294446232
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446160,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.28459167,
+            "y": -98.94725,
+            "z": 8.612305
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.260127127,
+            "z": 0.0,
+            "w": 0.965574443
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "U_guard (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446158,
+            4294446150,
+            4294446142,
+            4294446134,
+            4294446126,
+            4294446118,
+            4294446110
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446158,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "DHT_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.92080164,
+            "y": 0.118020184
+          },
+          "LightMapTiling": {
+            "x": 0.03821672,
+            "y": 0.03821672
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446150,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "HD_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.407165349,
+            "y": 0.13930583
+          },
+          "LightMapTiling": {
+            "x": 0.0245440416,
+            "y": 0.0245440416
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446142,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "QK_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.8436654,
+            "y": 0.117540807
+          },
+          "LightMapTiling": {
+            "x": 0.0362658761,
+            "y": 0.0362658761
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446134,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "THS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.373392373,
+            "y": 0.118029363
+          },
+          "LightMapTiling": {
+            "x": 0.0497788042,
+            "y": 0.0497788042
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446126,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "TJS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.169854909,
+            "y": 0.158365831
+          },
+          "LightMapTiling": {
+            "x": 0.008701606,
+            "y": 0.008701606
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446118,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "TLS_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.6150333,
+            "y": 0.117911272
+          },
+          "LightMapTiling": {
+            "x": 0.0207581688,
+            "y": 0.0207581688
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446110,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": -3.774895E-08,
+            "y": 1.11022296E-16,
+            "z": -1.11022296E-16,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "WN_L",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446160,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            85,
+            95,
+            103,
+            117,
+            97,
+            114,
+            100,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.725564361,
+            "y": 0.118096687
+          },
+          "LightMapTiling": {
+            "x": 0.03238979,
+            "y": 0.03238979
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 609156,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.436462,
+            "y": -85.98724,
+            "z": 41.91272
+          },
+          "Local_Quaternion": {
+            "x": -0.0008283927,
+            "y": -0.707106233,
+            "z": -0.7071064,
+            "w": 0.0008282288
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.353837669,
+            "y": 0.294197381
+          },
+          "LightMapTiling": {
+            "x": 0.06647725,
+            "y": 0.06647725
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 608846,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.9880524,
+            "y": -85.98724,
+            "z": 41.8775635
+          },
+          "Local_Quaternion": {
+            "x": -0.5,
+            "y": -0.5,
+            "z": -0.5,
+            "w": 0.5
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.308104843,
+            "y": 0.7863849
+          },
+          "LightMapTiling": {
+            "x": 0.06647725,
+            "y": 0.06647725
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 608802,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.461945,
+            "y": -85.98724,
+            "z": -49.37738
+          },
+          "Local_Quaternion": {
+            "x": 0.499893129,
+            "y": -0.5001067,
+            "z": -0.500106931,
+            "w": -0.499893337
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.308104843,
+            "y": 0.850838
+          },
+          "LightMapTiling": {
+            "x": 0.06647725,
+            "y": 0.06647725
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 609082,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.87,
+            "y": -85.98724,
+            "z": -49.41
+          },
+          "Local_Quaternion": {
+            "x": 0.70710665,
+            "y": -0.0004381463,
+            "z": -0.000438511372,
+            "w": -0.7071067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_in_wall_low (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ColliderType": 1,
+          "ColliderShape": 3,
+          "IsDynamic": false,
+          "BoxInfo": {
+            "Extent": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "SphereInfo": {
+            "Radius": 0.5
+          },
+          "CapsuleInfo": {
+            "HalfHeight": 0.0,
+            "Radius": 0.0
+          },
+          "DefaultColliderInfo": {
+            "AngleLock": [
+              false,
+              false,
+              false
+            ],
+            "Density": 1.0,
+            "DynamicFriction": 1.0,
+            "LinearLock": [
+              false,
+              false,
+              false
+            ],
+            "OffSet": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "PhysicsLayer": 0,
+            "Restitution": 0.0,
+            "StaticFriction": 1.0,
+            "UseGravity": false
+          },
+          "ComponentID": 4217231799
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            105,
+            110,
+            95,
+            119,
+            97,
+            108,
+            108,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.308104843,
+            "y": 0.915291131
+          },
+          "LightMapTiling": {
+            "x": 0.06647725,
+            "y": 0.06647725
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446416,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7349854,
+            "y": -86.25725,
+            "z": 41.95468
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.8797662,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446256,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7349854,
+            "y": -86.25725,
+            "z": 41.9547119
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.761602163
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446304,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.26501465,
+            "y": -86.25725,
+            "z": 41.9547424
+          },
+          "Local_Quaternion": {
+            "x": -2.49773635E-14,
+            "y": -1.0,
+            "z": 3.77489577E-08,
+            "w": 7.152557E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.288945943
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446328,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0,
+            "y": -86.22725,
+            "z": -11.36322
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.40711,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446292,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -26.36316
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.40711
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445906,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": -41.3631
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.170781881
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445930,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.37710571,
+            "y": -86.22726,
+            "z": -49.43097
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (23)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.6434381,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446474,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.5,
+            "y": -86.22726,
+            "z": -41.13
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (24)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.170781881,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446492,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.622818,
+            "y": -86.22726,
+            "z": -49.4311523
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (22)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.761602163,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446072,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.622757,
+            "y": -86.22726,
+            "z": -49.4311523
+          },
+          "Local_Quaternion": {
+            "x": -3.774897E-08,
+            "y": 4.6193594E-07,
+            "z": -4.257486E-14,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (21)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.6434381
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446440,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.06,
+            "y": -86.22725,
+            "z": 3.63690186
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.288945943,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445972,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 18.63684
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.525274038,
+            "y": -0.000116560615
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446310,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 37.0249939,
+            "y": -86.22725,
+            "z": 33.63678
+          },
+          "Local_Quaternion": {
+            "x": 2.66925415E-08,
+            "y": -0.707106769,
+            "z": 2.66925539E-08,
+            "w": -0.7071069
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall1_main_low (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            49,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000116560615,
+            "y": 0.525274038
+          },
+          "LightMapTiling": {
+            "x": 0.116444059,
+            "y": 0.116444059
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446352,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.9255829,
+            "y": -89.83687,
+            "z": 6.093567
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707107,
+            "z": 0.0,
+            "w": 0.7071066
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446350,
+            4294446342,
+            4294446202
+          ],
+          "ComponentID": 188567026
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446350,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 4.28773451,
+            "y": 0.0,
+            "z": 3.30572867
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "glass_handle_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446352,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.274997622,
+            "y": 0.118143179
+          },
+          "LightMapTiling": {
+            "x": 0.0208654441,
+            "y": 0.0208654441
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446342,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 1.1905098,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446352,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -0.000169453677,
+            "y": -0.000169453677
+          },
+          "LightMapTiling": {
+            "x": 0.169284225,
+            "y": 0.169284225
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446202,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 4.280945,
+            "y": -0.000380516052,
+            "z": 3.33135986
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "superCPU_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446352,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            115,
+            117,
+            112,
+            101,
+            114,
+            67,
+            80,
+            85,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.407006621,
+            "y": 0.117944129
+          },
+          "LightMapTiling": {
+            "x": 0.219712719,
+            "y": 0.219712719
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445866,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446208
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.3182967,
+            "y": 0.170835748
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446208,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294445866,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.6649594
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445924,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455017,
+            "y": -85.72725,
+            "z": -6.57531738
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294445894
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.253843576,
+            "y": 0.170835748
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445894,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294445924,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.357342154
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446196,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455017,
+            "y": -85.72725,
+            "z": 7.404663
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294445954
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.447202951,
+            "y": 0.170835748
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445954,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446196,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.5419125
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446322,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.454987,
+            "y": -85.72725,
+            "z": 0.404602051
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446386
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.242124811
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446386,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446322,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.538006246
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445978,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.4552,
+            "y": -85.72725,
+            "z": 14.4046631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446410
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.886656046
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446410,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294445978,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.722576559
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446528,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.45517,
+            "y": -85.72725,
+            "z": 21.4046021
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446364
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.382749826,
+            "y": 0.170835748
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446364,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446528,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.480389029
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445936,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.455048,
+            "y": -85.72725,
+            "z": -13.5752563
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446452
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189390436,
+            "y": 0.170835748
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446452,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294445936,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.9071469
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446268,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.454834,
+            "y": -85.72725,
+            "z": -27.5753174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446250
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.8222029
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446250,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446268,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.6610531
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446498,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.4548645,
+            "y": -85.72725,
+            "z": -20.5752563
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071066,
+            "z": 0.0,
+            "w": 0.707107067
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446166
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.371031076
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446166,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446498,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.4188656
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446358,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 32.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294445948
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.306577951
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445948,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446358,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.603435934
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446032,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 25.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446370
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.7577498
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446370,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446032,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.5995297
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446054,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 11.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446392
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.628843546
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446392,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446054,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.295818716
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446280,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 18.2649841,
+            "y": -85.61725,
+            "z": -2.68530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446480
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.499937326
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446480,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446280,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.7841
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446008,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 18.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446238
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.6932967
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446238,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446008,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.07120934,
+            "y": 0.8798031
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446026,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 11.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446048
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.5643904
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446048,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446026,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.310467154,
+            "y": 0.7264828
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446220,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 25.2649841,
+            "y": -85.61725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_main_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "ChildrenID": [
+            4294446334
+          ],
+          "ComponentID": 188567026
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            97,
+            105,
+            110,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118101373,
+            "y": 0.4354842
+          },
+          "LightMapTiling": {
+            "x": 0.06262538,
+            "y": 0.06262538
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446334,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 0.0,
+            "y": 0.0141839981,
+            "z": 0.0
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_window_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 4294446220,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            119,
+            105,
+            110,
+            100,
+            111,
+            119,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.249920279,
+            "y": 0.845623434
+          },
+          "LightMapTiling": {
+            "x": 0.0796396658,
+            "y": 0.0796396658
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446244,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.465012,
+            "y": -85.7472458,
+            "z": -31.3552856
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.8026952,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446102,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 7.514984,
+            "y": -85.64725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.7616796,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446096,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.0549774,
+            "y": -85.64725,
+            "z": -4.18530273
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.879843652,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445960,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 36.0549774,
+            "y": -85.64725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.684531152,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445918,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 7.514984,
+            "y": -85.64725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 6.10947552E-07,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.6435155,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446078,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.465012,
+            "y": -85.7472458,
+            "z": 25.1846924
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.707106769,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_mid_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            109,
+            105,
+            100,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.5741796,
+            "y": 0.11812488
+          },
+          "LightMapTiling": {
+            "x": 0.03914086,
+            "y": 0.03914086
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446226,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 6.0349884,
+            "y": -85.64725,
+            "z": -4.165283
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": 2.533197E-07
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.288999617,
+            "y": 0.118101187
+          },
+          "LightMapTiling": {
+            "x": 0.06280946,
+            "y": 0.06280946
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446090,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -7.27687073,
+            "y": -85.64725,
+            "z": -4.19055176
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.226499632,
+            "y": 0.118101187
+          },
+          "LightMapTiling": {
+            "x": 0.06280946,
+            "y": 0.06280946
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445984,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.42,
+            "y": -85.73,
+            "z": 26.63
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_right_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            114,
+            105,
+            103,
+            104,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.17083557,
+            "y": 0.118101187
+          },
+          "LightMapTiling": {
+            "x": 0.06280946,
+            "y": 0.06280946
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446404,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -7.276596,
+            "y": -85.61725,
+            "z": -2.66955566
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "w": -4.470348E-08
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.5253436,
+            "y": 0.118117049
+          },
+          "LightMapTiling": {
+            "x": 0.0469690338,
+            "y": 0.0469690338
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446084,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -9.512741,
+            "y": -85.73,
+            "z": -32.85
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": -0.7071068,
+            "z": 0.0,
+            "w": 0.7071068
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.472609222,
+            "y": 0.118117049
+          },
+          "LightMapTiling": {
+            "x": 0.0469690338,
+            "y": 0.0469690338
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445882,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 6.0349884,
+            "y": -85.61725,
+            "z": -2.6953125
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "wall3_left_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            119,
+            97,
+            108,
+            108,
+            51,
+            95,
+            108,
+            101,
+            102,
+            116,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.344679534,
+            "y": 0.118117049
+          },
+          "LightMapTiling": {
+            "x": 0.0469690338,
+            "y": 0.0469690338
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446214,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.7948631,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446422,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.598574042
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446446,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 33.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.295839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446178,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.24994123,
+            "y": 0.356386542
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445990,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.814394355,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446516,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -11.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.7538475,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446428,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.9013084
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446014,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.63275373,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446060,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -26.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.6132225,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446510,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.85541,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446262,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.49212873,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446504,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": -41.3253174
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.538027167
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446298,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.356386542
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445912,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.24994123,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446184,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.24994123,
+            "y": 0.295839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446458,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.29501343,
+            "y": -98.90725,
+            "z": 3.7288208
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.24994123,
+            "y": 0.416933417
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446190,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.7049866,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446522,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.7049866,
+            "y": -98.90725,
+            "z": 18.72882
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "floor2_light (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            102,
+            108,
+            111,
+            111,
+            114,
+            50,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.73431623,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446286,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.3104881,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446002,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (9)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.51166,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446020,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (10)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.780214667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446398,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 3.66467285
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (11)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.431581855,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446486,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (17)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.87494123,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446316,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (16)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.4774803
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445900,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 18.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (12)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.572206855,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446434,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (15)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.9354881,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446066,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (14)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.6591209
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445942,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": 33.4146729
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (13)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.5526756,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445966,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.840761542
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445996,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -41.3353271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.6933006,
+            "y": 0.170839667
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445872,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (3)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.7196678
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445888,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.673769355,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446380,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.189394355,
+            "y": 0.416933417
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446274,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": -1.34501648,
+            "y": -73.14725,
+            "z": -11.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.915956855,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446464,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 13.6549835,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (4)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.37103498,
+            "y": 0.235292792
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446172,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 28.6549835,
+            "y": -73.14725,
+            "z": -26.5853271
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cel3_light (5)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            101,
+            108,
+            51,
+            95,
+            108,
+            105,
+            103,
+            104,
+            116,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.24994123,
+            "y": 0.4774803
+          },
+          "LightMapTiling": {
+            "x": 0.05871129,
+            "y": 0.05871129
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446038,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 27.61499,
+            "y": -98.8172455,
+            "z": 17.6546631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cpuB_low",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            112,
+            117,
+            66,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": 0.118094519,
+            "y": 0.1708289
+          },
+          "LightMapTiling": {
+            "x": 0.0694750249,
+            "y": 0.0694750249
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 4294446232,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 12.894989,
+            "y": -98.8172455,
+            "z": 17.6546631
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "cpuB_low (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 609070,
+          "ComponentID": 3243699741
+        },
+        {
+          "FBX": [
+            99,
+            112,
+            117,
+            66,
+            95,
+            108,
+            111,
+            119,
+            46,
+            102,
+            98,
+            120
+          ],
+          "FBXFilter": 3,
+          "ComponentID": 3774279003,
+          "LightMapOffset": {
+            "x": -6.954457E-05,
+            "y": 0.879813254
+          },
+          "LightMapTiling": {
+            "x": 0.0694750249,
+            "y": 0.0694750249
+          },
+          "LightMapScale": 0,
+          "LightMapIndex": 0
+        }
+      ]
+    },
+    {
+      "EntityID": 609128,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 34.03,
+            "y": -58.776886,
+            "z": 27.0
+          },
+          "Local_Quaternion": {
+            "x": 0.7068188,
+            "y": 0.0,
+            "z": 4.24333848E-08,
+            "w": 0.7073947
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Area Light (7)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 608856,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 34.03,
+            "y": -58.776886,
+            "z": 4.9
+          },
+          "Local_Quaternion": {
+            "x": 0.7068188,
+            "y": 0.0,
+            "z": 4.24333848E-08,
+            "w": 0.7073947
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Area Light (8)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 4294445090,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 19.57,
+            "y": -64.22414,
+            "z": -43.57
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Point Light (1)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 4294442628,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 49.1,
+            "y": -64.22414,
+            "z": -43.57
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Point Light (2)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        }
+      ]
+    },
+    {
+      "EntityID": 608980,
+      "Component": [
+        {
+          "Local_Location": {
+            "x": 34.4640045,
+            "y": -71.294136,
+            "z": -7.24053955
+          },
+          "Local_Quaternion": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "Local_Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ComponentID": 3400599862
+        },
+        {
+          "Name": "Reflection Probe (6)",
+          "ComponentID": 1365953231
+        },
+        {
+          "ParentID": 608912,
+          "ComponentID": 3243699741
+        }
+      ]
+    }
+  ],
+  "PhysicsInfo": {
+    "CollisionMatrix": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "FrameRate": 60,
+    "Gravity": {
+      "x": 0.0,
+      "y": -9.81,
+      "z": 0.0
+    }
+  }
+}
